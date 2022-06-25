@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dassongh/ts/issues"
   },
-  "homepage": "https://github.com/dassongh/ts#readme"
+  "homepage": "https://github.com/dassongh/ts#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
 }
